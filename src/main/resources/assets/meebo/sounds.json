@@ -1,0 +1,42 @@
+{
+  "entity.meebo.death": {
+    "sounds": [
+      "meebo:entity/meebo/death1",
+      "meebo:entity/meebo/death2"
+    ]
+  },
+  "entity.meebo.angry": {
+    "sounds": [
+      "meebo:entity/meebo/angry1"
+    ]
+  },
+  "entity.meebo.surprised": {
+    "sounds": [
+      "meebo:entity/meebo/surprised1"
+    ]
+  },
+  "entity.meebo.bigeye": {
+    "sounds": [
+      "meebo:entity/meebo/bigeye1",
+      "meebo:entity/meebo/bigeye2"
+    ]
+  },
+  "entity.meebo.sad": {
+    "sounds": [
+      "meebo:entity/meebo/sad1"
+    ]
+  },
+  "entity.meebo.idle": {
+    "sounds": [
+      "meebo:entity/meebo/idle1",
+      "meebo:entity/meebo/idle2",
+      "meebo:entity/meebo/idle3"
+    ]
+  },
+  "entity.meebo.hurt": {
+    "sounds": [
+      "meebo:entity/meebo/hurt1",
+      "meebo:entity/meebo/hurt2"
+    ]
+  }
+}
